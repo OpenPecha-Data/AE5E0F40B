@@ -1,0 +1,22 @@
+segment_sources:
+  P6B84B8B7:
+    type: origin_type
+    relation: translation
+    language: en
+  PD340F75C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  eb4539e256e44f85a53c02f3c0208719:
+    P6B84B8B7: 1205a323aa464588b165ce8ef33f2e25
+    PD340F75C: 40112392cc304ed4b0d9b7982e73378c
+  70e55a13ad08470e9c8c13e437085293:
+    P6B84B8B7: c7f19abd66824ff5861f08ddc04bac24
+    PD340F75C: 51cf250960064ecdb97550096f212b5b
+  f88f72de03684624bba79e3444195772:
+    P6B84B8B7: 378038dc71be4140979946b59b4fece8
+    PD340F75C: f9f077ca2c21419695b17909003647ff
+  181e12d01f5245d2a388fb93d5d99fa7:
+    P6B84B8B7: 758c07720831443dbf9d755866846a10
+    PD340F75C: e30659111c0947e7876c430bf7a89f54
